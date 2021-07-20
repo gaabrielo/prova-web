@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-CRUD para controle de instituições de uma plataforma de ensino.
+CRUD para controle de instituições de uma plataforma de ensino. As instituições podem se cadastrar na plataforma com uma conta admin para que alunos e professores tenham acesso às suas informações.
 
 ## 🚀 Como executar
 
